@@ -27,3 +27,16 @@ Wrote a basic code to check what stuff i can add and found a peak lib Spotify ar
 
 
 **Total time spent: 2.5hours**
+
+# July 9 : Working on CAD 
+
+i have started working on CAD but i'm really confused on how the case should look like, i downloaded all the components for making a accurate case now i started but couldn't think of any good idea for the case so that's all for now.. 
+
+<img width="211" height="455" alt="screenshot_20260709_162636" src="https://github.com/user-attachments/assets/30da9764-9e5c-4208-8b29-6ff1972dca0c" />
+
+**Total time spent: 30minutes**
+
+
+
+
+
