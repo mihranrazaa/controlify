@@ -36,6 +36,15 @@ i have started working on CAD but i'm really confused on how the case should loo
 
 **Total time spent: 30minutes**
 
+# July 16 : MADE A BOXX!!
+
+I made a box meaning i'm on it that's all thank you :|
+
+<img width="585" height="463" alt="image" src="https://github.com/user-attachments/assets/173decad-f3b5-4c02-aad2-8acca61d86ee" />
+
+**Total time spent : 15minutes**
+
+
 
 
 
