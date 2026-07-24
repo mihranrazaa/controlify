@@ -38,14 +38,21 @@ i have started working on CAD but i'm really confused on how the case should loo
 
 # July 16 : MADE A BOXX!!
 
-I made a box meaning i'm on it that's all thank you :|
+I made a box meaning i'm on it that's all thank you :| i need more free time to work on this :sob 
 
 <img width="585" height="463" alt="image" src="https://github.com/user-attachments/assets/173decad-f3b5-4c02-aad2-8acca61d86ee" />
 
 **Total time spent : 15minutes**
 
+# July 24 : Need changes but made progress
 
+Completed one case prototype and printed it to check if my IRL parts fit or not, and thank god i did becuase my nodemcu doesn't fit in the box... but now i have a better ideas i will shape it a long rectangle and the buttons will be places in line... 
 
+<img width="832" height="769" alt="image" src="https://github.com/user-attachments/assets/4a7ced99-43ad-499e-8db2-195ad19c14be" />
+
+<img width="4624" height="2600" alt="IMG_20260723_210510" src="https://github.com/user-attachments/assets/c41851c7-1118-4e8d-aa95-e0f5495849ff" />
+
+**Total time spent: 40minutes**
 
 
 
